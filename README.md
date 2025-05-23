@@ -1,2 +1,2 @@
 # Curriculo
-Currículo
+Minha prieira interação com HTML e CSS
